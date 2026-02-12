@@ -55,7 +55,9 @@ With all these let us first have some basic motivation for learning ML in the co
 
 - In **classical** programming, we the developers need to understand the aspect of the problem we are trying to solve, and to know exactly what all the rules are to make it to the solution
 
-```{important}
+```{admonition} Intuitively
+:class: tip
+
 **Machine Learning** $\equiv$ **Learning from example**
 ```
 
