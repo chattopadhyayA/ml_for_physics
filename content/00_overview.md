@@ -104,7 +104,7 @@ align:  center
 before running the notebook again.
 
 ```{note}
-With all these, we are now ready to proceed with the following topics.
+With all these, we are now ready to proceed.
 
 If you find this Jupyter Book helpful for your project, thesis, or article, you are welcome to cite this resource:
 
@@ -115,5 +115,3 @@ I would also greatly appreciate your feedback. You can find my contact details o
 https://chattopadhyaya.github.io
 ```
 
-```{tableofcontents}
-```
