@@ -2,7 +2,7 @@
 # Overview
 
 <div style="text-align:center; margin: 1.2em 0;">
-  <img src="StringE.png" alt="String-E" style="max-width:320px; width:60%; height:auto;">
+  <img src="../StringE.png" alt="String-E" style="max-width:320px; width:60%; height:auto;">
   <p style="margin-top:0.6em; font-size:1.1em;"><strong>String-E welcomes you to this course</strong></p>
 </div>
 
