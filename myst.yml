@@ -12,6 +12,7 @@ project:
   # github:
   # To autogenerate a Table of Contents, run "jupyter book init --write-toc"
   toc:
+  - file: content/00_overview
   - file: content/01_stat
   - file: content/02_MLintro
   - file: content/03_decision
