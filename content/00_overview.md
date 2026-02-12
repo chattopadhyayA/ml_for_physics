@@ -115,12 +115,5 @@ I would also greatly appreciate your feedback. You can find my contact details o
 https://chattopadhyaya.github.io
 ```
 
-
-
-
-
-
-
-# <span style="color:maroon">Contents</span>
 ```{tableofcontents}
 ```
