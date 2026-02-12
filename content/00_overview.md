@@ -1,5 +1,5 @@
 
-# <span style="color:maroon"> Overview </span>
+# Overview
 
 This course page can also be thought of as my notes on basics of Machine Learning. These particular notes are built upon the **Machine Learning** course web page for the US CMS PURSUE workshop 2025, available here:  [ML PURSUE 2025 course page](https://chattopadhyaya.github.io/ml_pursue2025). Given our modern day use of all things electronic, *you can run, you can hide but you cannot escape ML*. From smart phones to smart toothpastes, ML is everywhere. The aim of these development is to help physicists to wrap their head around all things ML.
 
