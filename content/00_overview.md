@@ -40,7 +40,7 @@ With all these let us first have some basic motivation for learning ML in the co
 
 ```{figure} images/AI_vs_hum.png
 :align: center
-:width: 600px
+:width: 650px
 ```
 
 ### Machine Learning
