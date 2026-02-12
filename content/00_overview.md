@@ -36,10 +36,12 @@ With all these let us first have some basic motivation for learning ML in the co
 
 ## Aritificial Intelligence and Machine Learning
 
-- Aritificial intelligence leverages computers and machines to mimic the problem solving and decision making capabilities of the human mind.<br>
+- Aritificial intelligence leverages computers and machines to mimic the problem solving and decision making capabilities of the human mind.
 
-![alt text](images/AI_vs_hum.png "Title")
-<br>
+```{figure} images/AI_vs_hum.png
+:align: center
+:width: 600px
+```
 
 ### Machine Learning
 
@@ -53,9 +55,11 @@ With all these let us first have some basic motivation for learning ML in the co
 
 - In **classical** programming, we the developers need to understand the aspect of the problem we are trying to solve, and to know exactly what all the rules are to make it to the solution
 
->
-> <span style="color:red">**Intuitively**: **Machine Learning** $\equiv$ **Learning from example**</span>.
->
+```{admonition} Intuition
+:class: danger
+
+**Machine Learning** $\equiv$ **Learning from example**
+```
 
 <br>
 
