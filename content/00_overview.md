@@ -103,7 +103,18 @@ align:  center
   `!pip install <missing-package-name>`  
 before running the notebook again.
 
->  <span style="color:red"> With all these we are now ready to proceed with the following topics.. </span> 
+```{note}
+With all these, we are now ready to proceed with the following topics.
+
+If you find this Jupyter Book helpful for your project, thesis, or article, you are welcome to cite this resource:
+
+https://chattopadhyaya.github.io/ml_for_physics
+
+I would also greatly appreciate your feedback. You can find my contact details on my homepage:
+
+https://chattopadhyaya.github.io
+```
+
 
 
 
