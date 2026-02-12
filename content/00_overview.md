@@ -36,7 +36,8 @@ With all these let us first have some basic motivation for learning ML in the co
 
 ## Aritificial Intelligence and Machine Learning
 
-- Aritificial intelligence leverages computers and machines to mimic the problem solving and decision making capabilities of the human mind. <br>
+- Aritificial intelligence leverages computers and machines to mimic the problem solving and decision making capabilities of the human mind.<br>
+
 ![alt text](images/AI_vs_hum.png "Title")
 <br>
 
