@@ -1,5 +1,5 @@
-
-# Overview
+# A minicourse in Machine Learning for Physicist
+## Overview
 
 ```{figure} ../StringE.png
 :align: center
