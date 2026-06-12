@@ -25,6 +25,7 @@ PACKAGES = [
     "pandas",
     "micropip",
     "packaging",
+    "jsonschema",
     # not in the distribution: loaded as wheels from the PyPI CDN.
     # URL wheels are installed without dependency resolution, so their deps
     # must be listed here too (packaging + narwhals are plotly's). narwhals
@@ -35,6 +36,12 @@ PACKAGES = [
     "https://files.pythonhosted.org/packages/83/11/00d3c3dfc25ad54e731d91449895a79e4bf2384dc3ac01809010ba88f6d5/seaborn-0.13.2-py3-none-any.whl",
     "https://files.pythonhosted.org/packages/56/6d/0d9848617b9f753b87f214f1c682592f7ca42de085f564352f10f0843026/ipywidgets-8.1.8-py3-none-any.whl",
     "https://files.pythonhosted.org/packages/f9/14/abe5ce876ab5b66ee3c691bf537fcd43d037aea55d447aacf74630a8f31e/plotly-6.8.0-py3-none-any.whl",
+    # nbformat chain: required by plotly's fig.show() mimetype renderer.
+    # jsonschema + traitlets come from the distribution/kernel; the rest as wheels.
+    "https://files.pythonhosted.org/packages/cb/a8/20d0723294217e47de6d9e2e40fd4a9d2f7c4b6ef974babd482a59743694/fastjsonschema-2.21.2-py3-none-any.whl",
+    "https://files.pythonhosted.org/packages/81/e6/cd9575ac904136b3cbf7aa7ee819ef86eedb7274e46f230e94ea4342e729/platformdirs-4.10.0-py3-none-any.whl",
+    "https://files.pythonhosted.org/packages/e7/e7/80988e32bf6f73919a113473a604f5a8f09094de312b9d52b79c2df7612b/jupyter_core-5.9.1-py3-none-any.whl",
+    "https://files.pythonhosted.org/packages/a9/82/0340caa499416c78e5d8f5f05947ae4bc3cba53c9f038ab6e9ed964e22f1/nbformat-5.10.4-py3-none-any.whl",
 ]
 
 INJECTION = ",loadPyodideOptions:{packages:" + json.dumps(PACKAGES) + "}}"
